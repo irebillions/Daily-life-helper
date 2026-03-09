@@ -1,2 +1,2 @@
-# Daily-life-helper
+# tracking diary 
 My first web app
